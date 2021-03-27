@@ -38,7 +38,7 @@ optional arguments:
 
 ## Demo
 
-![GemScannerDemo](https://github.com/Splint3r7/GemScanner/blob/master/images/GemScannerDemo.gif)
+![GemScannerDemo](https://raw.githubusercontent.com/Splint3r7/GemScanner/main/images/GemScannerDemo.gif)
 
 ## TODO
 
