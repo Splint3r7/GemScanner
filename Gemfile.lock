@@ -1,0 +1,6 @@
+specs:
+jquery-rails (4.4.0)
+Ascii85 (1.0.3)
+actioncable (5.2.4.4)
+actionpack (= 5.2.4.4)
+nio4r (~> 2.0)
