@@ -38,7 +38,7 @@ optional arguments:
 
 ## Demo
 
-![GemScannerDemo](https://raw.githubusercontent.com/Splint3r7/GemScanner/main/images/GemScannerDemo.gif)
+[![asciicast](https://asciinema.org/a/jJYO1WP2ctszJWGVdb6MYWIJJ.svg)](https://asciinema.org/a/jJYO1WP2ctszJWGVdb6MYWIJJ)
 
 ## TODO
 
